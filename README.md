@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
     <h1>
@@ -133,5 +133,3 @@
                 <td>Sebastián</td>
             </tr>
         </tbody>
-</body>
-</html>
