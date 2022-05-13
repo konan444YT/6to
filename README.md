@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <body>
     <h1>
@@ -6,11 +6,13 @@
     </h1>
     <table border="2">
         <caption>Alumnos</caption>
-        <tbody>
+        <thead>
             <tr>
-                <td>Num. alum.</td>
+                <th>Num. alum.</th>
                 <th>Apellidos</th>
                 <th>Nombres</th>
+        </thead>
+        <tbody>
             </tr>
             <tr>
                 <th>1</th>
@@ -119,17 +121,14 @@
             </tr>
             <tr>
                 <th>22</th>
-                <td>Sánchez</td>
-                <td>Axel</td>
-            </tr>
-            <tr>
-                <th>23</th>
                 <td>Stancatti</td>
                 <td>Joaquín</td>
             </tr>
             <tr>
-                <th>24</th>
+                <th>23</th>
                 <td>Vergara</td>
                 <td>Sebastián</td>
             </tr>
         </tbody>
+</body>
+</html>
