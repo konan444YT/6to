@@ -8,7 +8,7 @@
         <caption align="center">Alumnos</caption>
         <thead>
             <tr>
-                <td>Num. alum.</td>
+                <th>Num. alum.</th>
                 <th>Apellidos</th>
                 <th>Nombres</th>
         </thead>
