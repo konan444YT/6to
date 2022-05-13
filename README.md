@@ -1,16 +1,21 @@
-
+<!DOCTYPE html>
 <html>
+<head>
+    <title>6to</title>
+</head>
 <body>
     <h1>
         SEXTO AÑO TECNICA Nº9
     </h1>
     <table border="2">
         <caption>Alumnos</caption>
-        <tbody>
+        <thead>
             <tr>
                 <td>Num. alum.</td>
                 <th>Apellidos</th>
                 <th>Nombres</th>
+        </thead>
+        <tbody>
             </tr>
             <tr>
                 <th>1</th>
@@ -119,17 +124,16 @@
             </tr>
             <tr>
                 <th>22</th>
-                <td>Sánchez</td>
-                <td>Axel</td>
-            </tr>
-            <tr>
-                <th>23</th>
                 <td>Stancatti</td>
                 <td>Joaquín</td>
             </tr>
             <tr>
-                <th>24</th>
+                <th>23</th>
                 <td>Vergara</td>
                 <td>Sebastián</td>
             </tr>
         </tbody>
+
+    </table>
+</body>
+</html>
