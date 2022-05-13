@@ -5,7 +5,7 @@
         SEXTO AÑO TECNICA Nº9
     </h1>
     <table border="2">
-        <caption>Alumnos</caption>
+        <caption align="center">Alumnos</caption>
         <thead>
             <tr>
                 <td>Num. alum.</td>
